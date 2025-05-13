@@ -27,6 +27,21 @@ export default function Home() {
       image: "/images/mini-tartaletas.jpg",
       price: "$2.25",
     },
+    {
+      id: 4,
+      name: "Tres leches cobertura fruta",
+      description: "Delicioso pastel de tres leches con frutas frescas y crema batida para 35 personas.",
+      image: "/images/tres-leches.jpeg",
+      price: "$20.00",
+    },
+    {
+      id: 5,
+      name: "Desayuno sorpresa",
+      description: "Desayuno sorpresa con mini donuts, frutas frescas, crossants, chocolates y más.",
+      image: "/images/desayuno-sorpresa.jpg",
+      price: "$16.00",
+    },
+    
   ]
 
   const testimonials = [
